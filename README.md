@@ -1,9 +1,4 @@
 ## Hi there 👋
-
-<!--
-**setiasanya/setiasanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ### Education
 University of Cambridge, Institute of Continuing Education, Cambridge
 Career Accelerator: Data Science with Machine Learning and AI	Sep 2024-Present	2024-Present 
@@ -73,6 +68,11 @@ SKILLS
 Programming languages: Python, SQL, JavaScript, R, CSS, HTML, DAX
 Computer software/ frameworks:  Microsoft Office, Git, VS Code, AWS Console, SPSS, DOMO, Tableu, PowerBI, Salesforce
 Languages:  English (Advanced), Hindi (Native)
+<!--
+**setiasanya/setiasanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 
 
 -->
